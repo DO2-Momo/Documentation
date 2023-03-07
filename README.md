@@ -19,7 +19,7 @@ npm ci;
 ```
 
 
-## Build Markdown files `./docs` as a pdf file
+## Build Markdown files from `./docs` as a pdf file
 
 ```
 npm run build
