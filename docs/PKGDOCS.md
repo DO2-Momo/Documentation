@@ -33,18 +33,8 @@ The package offers a collection of drivers and firmware for several audio proces
 The multimedia framework gstreamer makes it simple to create multimedia apps. 
 <br/>
 
-### `gstreamer-plugins-base`
-The package is a collection of GStreamer plugins that offer fundamental multimedia capability. 
-
-<br/>
-
 ### `gstreamer-plugins-good`
 The package is  a collection of GStreamer plugins that offer top-notch multimedia functionality. 
-
-<br/>
-
-### `gstreamer-plugins-bad`
-The package is  a collection of GStreamer plugins that offer test-run multimedia features. 
 
 <br/>
 
