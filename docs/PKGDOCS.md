@@ -30,12 +30,11 @@ The package offers a collection of drivers and firmware for several audio proces
 # Video 
 
 ### `gstreamer`
-The multimedia framework gstreamer makes it simple to create multimedia apps. 
+The multimedia framework gstreamer makes it simple to make multimedia apps. 
 <br/>
 
 ### `gstreamer-plugins-good`
 The package is  a collection of GStreamer plugins that offer top-notch multimedia functionality. 
-
 <br/>
 
 ### `x264`
