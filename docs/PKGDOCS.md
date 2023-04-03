@@ -1,5 +1,120 @@
 # Package Documentation
 
+# DESKTOP PACKAGES
+
+### `sddm`
+Simple Desktop Display Manager is a graphical login program and session manager.
+<br/>
+
+### `bluedevil`
+Bluethoot integration in KDE workspace and applacations.
+<br/>
+
+### `breeze`
+Assets and styles for the "Breeze" visual style for Plasma.
+<br/>
+
+### `breeze-gtk`
+widget theme. 
+<br/>
+
+### `discover`
+Application and widgets installation and management center.
+<br/>
+
+### `drkonqi`
+KDE crash handler.
+<br/>
+
+### `flatpak-kcm`
+Permission management for Flatpak applications
+<br/>
+
+### `kactivitymanagerd` (TODO: REMOVE)
+User activity and usage pattenrs management service
+<br/> 
+
+### `kde-cli-tools`
+KDE command-line tools to improve system interaction
+<br/>
+
+### `kde-gtk-config`
+Configuration for the appearcance of GTK applications
+<br/>
+
+### `kdecoration`
+window decorations and plugins library 
+<br/>
+
+### `kdeplasma-addons`
+Addons for KDE Plasma
+<br/>
+
+### `kgamma5`
+Setting panel to adjust monitor gamma
+<br/>
+
+### `khotkeys`
+Hotkeys for KDE Plasma
+<br/>
+
+### `kinfocenter`
+Information about the computer system 
+<br/>
+
+### `kmenuedit`
+tool to edit KDE menus
+<br/>
+
+### `kpipewire`
+
+<br/>
+
+### ``
+
+<br/>
+
+
+kpipewire
+kscreen
+kscreenlocker
+ksshaskpass
+ksystemstats
+kwallet-pam
+kwayland-integration
+kwin
+kwrited
+layer-shell-qt
+libkscreen
+libksysguard
+milou
+oxygen
+oxygen-sounds
+plasma-browser-integration
+plasma-desktop
+plasma-disks
+plasma-firewall
+plasma-integration
+plasma-nm
+plasma-pa
+plasma-sdk
+plasma-systemmonitor
+plasma-thunderbolt
+plasma-vault
+plasma-welcome
+plasma-workspace
+plasma-workspace-wallpapers
+polkit-kde-agent
+powerdevil
+sddm-kcm
+systemsettings
+xdg-desktop-portal-kde
+
+
+
+
+# Multimedia
+
 # Audio
 
 ### `alsa-utils`
