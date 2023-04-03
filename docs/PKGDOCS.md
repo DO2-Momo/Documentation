@@ -217,17 +217,3 @@ The KDE desktop environment includes the picture organiser and viewer Gwenview.
 This package is a screen capture and screenshot application called Spectacle is also a part of the KDE desktop environment.
 
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
