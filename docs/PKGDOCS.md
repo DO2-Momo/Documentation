@@ -135,7 +135,6 @@ The package is a high-quality audio codec with low latency and effective compres
 
 ### `vlc`
 The package is a well-known video player that supports a wide range of codecs and file formats.
-
 <br/>
 
 ### `sof-firmware `
@@ -145,21 +144,11 @@ The package offers a collection of drivers and firmware for several audio proces
 # Video 
 
 ### `gstreamer`
-The multimedia framework gstreamer makes it simple to create multimedia apps. 
-<br/>
-
-### `gstreamer-plugins-base`
-The package is a collection of GStreamer plugins that offer fundamental multimedia capability. 
-
+The multimedia framework gstreamer makes it simple to make multimedia apps. 
 <br/>
 
 ### `gstreamer-plugins-good`
 The package is  a collection of GStreamer plugins that offer top-notch multimedia functionality. 
-
-<br/>
-
-### `gstreamer-plugins-bad`
-The package is  a collection of GStreamer plugins that offer test-run multimedia features. 
 
 <br/>
 
@@ -201,18 +190,30 @@ The package offers a number of tools for controlling Bluetooth devices.
 
 <br/>
 
+# utils.x86_64
 
+# Office utilities
 
+### `libreoffice-still`
+ Support for Bluetooth devices is provided by this package.
 
+<br/>
 
+# Calculator
 
+### `kcalc`
+KDE's desktop environment comes with the calculator programme KCalc.
 
+<br/>
 
+# Images
 
+### `gwenview`
+The KDE desktop environment includes the picture organiser and viewer Gwenview.
 
+<br/>
 
+### `spectacle`
+This package is a screen capture and screenshot application called Spectacle is also a part of the KDE desktop environment.
 
-
-
-
-
+<br/>
